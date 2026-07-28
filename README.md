@@ -1,4 +1,4 @@
-# RAG Lokis — агент end-to-end суммаризации статей
+# Agent  — агент end-to-end суммаризации статей
 
 Агент на **LangChain + LangGraph + MCP + Gemini 3.5 Flash Lite**, который сам:
 
