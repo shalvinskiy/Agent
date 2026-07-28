@@ -1,0 +1,6 @@
+# Уже были в системе (/usr/bin/python3): python-dotenv, google-genai, langchain*
+# Доустановлены только отсутствующие зависимости:
+langgraph>=1.2.0,<2.0.0
+langchain-google-genai>=4.0.0,<5.0.0
+langchain-mcp-adapters>=0.3.0,<0.4.0
+mcp>=1.29.0,<2.0.0
